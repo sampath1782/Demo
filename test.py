@@ -1,1 +1,1 @@
-print "welcome to AWS class"
+print "welcome to AWS"
